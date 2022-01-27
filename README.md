@@ -9,3 +9,5 @@ Any dead cell with exactly three live neighbours becomes a live cell, as if by r
 # How to play
 Run Main and quickly click on screen to get shapes growing.
 
+The game code is based on this Youtube tutorial https://www.youtube.com/watch?v=3bOc7Z7K-GY
+
